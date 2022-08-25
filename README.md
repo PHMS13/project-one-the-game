@@ -1,30 +1,16 @@
-﻿# Welcome to Project #1: The Game
+# BEM VINDO AO MEU PRIMEIRO PROJETO!
+## SOBRE MIM
+Olá, meu nome é Pedro Henrique Maciel Silva, tenho 29 anos e estou participando do curso de Web Development Full Time da instituição Ironhack. 
 
-## About me 🙋🏻‍♂️
-I am a former Brazilian/Italian interior designer living in Dublin, Ireland, who decided to take my first steps toward a career change by attending a Bootcamp at Ironhack São Paulo.
+## SOBRE O PROJETO
+Desenvolvi um quiz de curiosidades sobre o TDAH(Transtorno do déficit de atenção com hiperatividade), pois possuo este transtorno e acredito que é interessante divulgar informações a respeito do mesmo.
+## LINKS DO PROJETO
+Link do jogo:
+ https://phms13.github.io/First-Project/
+Link da apresentação: https://docs.google.com/presentation/d/1W09GJqDGZfYB9ybPX4w2cDXsONQxJgE8S2vqNK0ri6U/edit#slide=id.gc6f73a04f_0_9
 
-## About the game 💭
-This short quiz game was created to test the user's knowledge of the Web Development subject and to practice the new skills acquired during the first two weeks of the Bootcamp at Ironhack.
+## FERRAMENTAS UTILIZADAS
 
-## How to play? 🤔
-To play, the user needs to click the START GAME button, which leads to the first question, which contains four options as answers, just one correct.
+[![JavaScript](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)  [![HTML](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)  [![Css](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 
-The game gives the player three lives, decreasing as wrong answers are chosen.
-
-The player wins when all the correct answers are chosen (nine in total) and loses when no longer lives are left.
-
-## Play it now! 🎮
-You can play the game at the following link: [Play Here!](https://t-minini.github.io/project-one-the-game/)
-
-## Tools used, IDE and Workspace Specs 💻
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
-
-## Here, you can Contact or Connect with me! ✉️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-minini/)
-<a href = "mailto:tulio.mminini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![VsCode](https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)
